@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FM - Financial Management Platform
 
 <div align="center">
@@ -670,3 +671,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Empowering Financial Decisions with AI*
 
 </div> 
+=======
+# FM
+>>>>>>> a7f9490f32aeea938457f89dd0184072388424ab
